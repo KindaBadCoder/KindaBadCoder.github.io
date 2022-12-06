@@ -1,4 +1,4 @@
 # KindaBadCoder.github.io
-https://kindabadcoder.github.io/
+Working general link: <https://kindabadcoder.github.io/>.
 
-my repository for GitHub Pages site, everything else is elsewhere
+This is my repository for my general GitHub Pages site domain. Everything else that I may make is elsewhere, in a subdirectory.
